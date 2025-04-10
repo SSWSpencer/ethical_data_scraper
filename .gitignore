@@ -1,0 +1,5 @@
+# Scraped output
+*.txt
+
+# Saved login session (DO NOT COMMIT THIS)
+chrome_state.json
