@@ -54,7 +54,7 @@ Note: It does not filter out-of-stock or backordered items.
 ## ❌ Do Not
 - Use this product for scrape the entire Newegg catalog
 - Use this for resale, bulk listing, or data mining
-- **Never** redistribute your `chrome_state.json` file (it contains your session cookies)
+- Redistribute your `chrome_state.json` file (it contains your session cookies)
 
 ## 📜 License
 MIT License (modify as needed). You are responsible for your own usage. Use this ethically and legally.
