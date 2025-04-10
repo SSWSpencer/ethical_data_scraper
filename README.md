@@ -3,7 +3,8 @@
 
 This project is a stealthy, human-like web scraper for Newegg products, built using [Playwright](https://playwright.dev/) and Python. It allows you to programmatically gather product names, prices, and links — useful for filtering out the noise when hunting for high-performance parts.
 
-> ⚠️ This scraper is intended for **personal or internal use only**. Use it responsibly and respect Newegg’s terms of service.
+> ⚠️ This scraper is a proof-of-concept and is intended for **personal or internal use only**. Use it responsibly and respect Newegg’s terms of service.
+> ⚠️ Use at your own risk. Newegg's bot detection is a gigachad, and I strongly suggest using a VPN (so your personal IP is not flagged/blacklisted/etc)
 
 ---
 
